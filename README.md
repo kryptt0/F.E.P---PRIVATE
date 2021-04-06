@@ -1,6 +1,5 @@
 # F.E.P---PRIVATE
 REPOSITORIO GIT DE F.E.P OFICIAL
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 <img src="https://github.com/iinc0gnit0/BlackPhish/blob/master/img/blackphish.png" align="middle" width="1000"></img>
 
@@ -12,39 +11,39 @@ REPOSITORIO GIT DE F.E.P OFICIAL
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/version-3.8-brightgreen">
+  <img src="https://img.shields.io/badge/version-3.8-brightgreen"
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iinc0gnit0/BlackPhish">
-
-</p>
-
-<p align="center">
-
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/iinc0gnit0?style=social">
-
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/iinc0gnit0/BlackPhish?style=social">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kryptt0/F.E.P---PRIVATE">
 
 </p>
 
 <p align="center">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/iinc0gnit0/BLackPhish">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/kryptt0?style=social">
 
-  <img src="https://img.shields.io/badge/language-python3-blue">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/kryptt0/F.E.P---PRIVATE?style=social">
 
 </p>
 
 <p align="center">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/kryptt0/F.E.P---PRIVATE">
+
   
-  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/iinc0gnit0/BlackPhish">
+
+</p>
+
+  <p align="center">
   
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/iinc0gnit0/BlackPhish">
+  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/kryptt0/F.E.P---PRIVATE">
+  
+  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/kryptt0/F.E.P---PRIVATE">
   
 </p>
 
 <p align="center">
   
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/iinc0gnit0/BlackPhish">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kryptt0/F.E.P---PRIVATE">
   
 </p>
 
@@ -54,15 +53,13 @@ Super lightweight with many features and blazing fast speeds.
 
 <p>
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/iinc0gnit0/BlackPhish">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/kryptt0/F.E.P---PRIVATE">
   
 </p>
 
 # in BETA
 
-This is still in BETA so you may see problems, please open an issue on GitHub and report them!
-
-Started October 31, 2019
+Este script se irá actualizando conste el tiempo!  <3
 
 # Compatibility
 
