@@ -1,0 +1,148 @@
+
+   <table class="table" bordered="1">  
+                    <tr>  
+                        <th>id</th>  
+                        <th>Company_Name</th>  
+                        <th>Owner_Name</th>  
+                        <th>Owner_ID</th>
+                        <th>Company_CR</th>
+                        <th>Owner_Phone</th>  
+                        <th>Owner_Email</th>  
+                        <th>Username</th>  
+                        <th>Password</th>
+                        <th>Customer_Support_Phone</th>
+                        <th>Customer_Support_Email</th>
+                        <th>Address</th>  
+                        <th>Country</th>  
+                        <th>City</th>  
+                        <th>Bank_Name</th>
+                        <th>IBAN</th>
+                        <th>Expected_Shipments_Daily</th>
+                    </tr>
+  
+    <tr>  
+                   <td>20</td>  
+                    <td>Mohammed</td>  
+                    <td>s</td>  
+                    <td>a1.png</td>  
+                    <td>a1.png</td>
+                    <td>+972592384541</td>  
+                    <td>msmwr11@gmail.com</td>  
+                    <td>m</td>  
+                    <td>44444</td>  
+                    <td>44444</td>
+                    <td>44</td>
+                    <td>4</td>
+                    <td>44</td>
+                    <td>4</td>
+                    <td>4</td>
+                    <td>44</td>
+                    <td>4</td>                   
+
+                    </tr>
+   
+    <tr>  
+                   <td>21</td>  
+                    <td>اختبار</td>  
+                    <td>اختبار</td>  
+                    <td>a1.png</td>  
+                    <td>113405214-delivery-men-with-moving-boxes-near-car.jpg</td>
+                    <td>ببب</td>  
+                    <td>ببب</td>  
+                    <td>ببب</td>  
+                    <td>ببب</td>  
+                    <td>بب</td>
+                    <td>ببب</td>
+                    <td>بب</td>
+                    <td>بب</td>
+                    <td>ببب</td>
+                    <td>ببب</td>
+                    <td>ببب</td>
+                    <td>5</td>                   
+
+                    </tr>
+   
+    <tr>  
+                   <td>22</td>  
+                    <td>sss</td>  
+                    <td>sss</td>  
+                    <td>718340-qAxtg-1596617068-5f2a716c8a5b4.png</td>  
+                    <td>banner-1.jpeg</td>
+                    <td>0222515458485</td>  
+                    <td>msmwr11@gmail.com</td>  
+                    <td>msamour11@students.iugaza.edu.</td>  
+                    <td>aaa</td>  
+                    <td>aaa</td>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                    <td>Khanwins</td>
+                    <td>Mohammed Samour</td>
+                    <td>aaa</td>
+                    <td>20</td>                   
+
+                    </tr>
+   
+    <tr>  
+                   <td>23</td>  
+                    <td>اختبار 2 test</td>  
+                    <td>اختبار 2 test</td>  
+                    <td>بيانات الشركات (5).xls</td>  
+                    <td>بيانات الشركات (5).xls</td>
+                    <td>1</td>  
+                    <td>com</td>  
+                    <td>اختبار 2 test</td>  
+                    <td>1</td>  
+                    <td></td>
+                    <td></td>
+                    <td>مكة makkah</td>
+                    <td>المملكة العربية السع</td>
+                    <td>Makkah مكة</td>
+                    <td></td>
+                    <td></td>
+                    <td>10</td>                   
+
+                    </tr>
+   
+    <tr>  
+                   <td>24</td>  
+                    <td>VAGO</td>  
+                    <td>SHROOQ MUBARKI</td>  
+                    <td>هوية شروق.jpg</td>  
+                    <td>معروف.png</td>
+                    <td>+966561041903</td>  
+                    <td>vagochesse@gmail.com</td>  
+                    <td>vagocheese</td>  
+                    <td>LIVELONG2020</td>  
+                    <td>966561041903</td>
+                    <td>vagochesse@gmail.com</td>
+                    <td>المحمدية - شارع الأمير سلطان</td>
+                    <td>السعودية</td>
+                    <td>Madina</td>
+                    <td>البنك الأهلي</td>
+                    <td>SA4010000033754445000106</td>
+                    <td>4</td>                   
+
+                    </tr>
+   
+    <tr>  
+                   <td>25</td>  
+                    <td>مؤسسة خالد عبد الوهاب الجفري </td>  
+                    <td>خالد عبد الوهاب الجفري </td>  
+                    <td>Screenshot_20200817_113947.jpg</td>  
+                    <td>Screenshot_20200817_113947.jpg</td>
+                    <td>+966561233468</td>  
+                    <td>ghaliah4healthyalternatives@gmail.com</td>  
+                    <td>هدى </td>  
+                    <td>0000</td>  
+                    <td>0561233468 </td>
+                    <td>Ghaliah4healthyalternatives@gmail.com </td>
+                    <td>Saudi Arabia</td>
+                    <td>حدة</td>
+                    <td>جدة</td>
+                    <td>الاهلي</td>
+                    <td>Sa6010000012300000352906</td>
+                    <td>2</td>                   
+
+                    </tr>
+   </table>
