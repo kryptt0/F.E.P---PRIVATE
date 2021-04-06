@@ -47,9 +47,9 @@ REPOSITORIO GIT DE F.E.P OFICIAL
   
 </p>
 
-# Fast and Lightweight
+# Fast 
 
-Super lightweight with many features and blazing fast speeds.
+Descarga archivos del grupo de hacktivismo F.E.P 🔥
 
 <p>
 
