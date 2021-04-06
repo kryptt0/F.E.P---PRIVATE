@@ -11,7 +11,7 @@ REPOSITORIO GIT DE F.E.P OFICIAL
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/version-3.8-brightgreen"
+  
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kryptt0/F.E.P---PRIVATE">
 
