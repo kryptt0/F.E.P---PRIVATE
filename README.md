@@ -1,7 +1,7 @@
 # F.E.P---PRIVATE
 REPOSITORIO GIT DE F.E.P OFICIAL
 
-<img src="https://github.com/kryptt0/F.E.P---PRIVATE/blob/main/-22m6cs.jpg" align="middle" width="1000"></img>
+<img src="https://github.com/kryptt0/F.E.P---PRIVATE/blob/main/IMG_F_E_P.jpg" align="middle" width="1000"></img>
 
 <h1 align="center">
 
